@@ -23,3 +23,5 @@ Engin Demiroğ'un düzenlediği 2024 Yazılım Geliştirici Yetiştirme kampı 2
 =>Strings
 
 =>TypesAndVariables
+
+Bulunmaktadır.
